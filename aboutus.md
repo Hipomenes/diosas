@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About us
-subtitle: Medieval and Early Modern Iberian Cultures 
+title: Course description
+subtitle: Utopia and Counter-Utopia
+cover-img: https://upload.wikimedia.org/wikipedia/commons/5/5c/Fra_Carnevale_-_The_Ideal_City_-_Walters_37677.jpg
 ---
 
 Welcome to **MEMIC**: an interdisciplinary research group dedicated to Medieval and Early Modern Iberian Studies. At the core of our research group are two questions: the materialities of texts and images and the entanglements of cultures that came into contact in the Iberian worlds. Research questions cluster around translation and circulation, religion, race, gender and the world-making capacity of images and texts. Methodologically, we engage with book history, literary theory, connected history,  translation studies, and conceptual history. 
