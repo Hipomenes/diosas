@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0 to your _config.yml
 
 # Name of website
-title: Utopía y contr-utopía en Hispanoamérica colonial
+title: Utopía / Contrautpía
 
 # Short description of your site
-description: Primavera 2021, Boston University
+description: El pensamiento utópico en Hispanoamérica colonial
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
