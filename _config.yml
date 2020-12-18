@@ -1,4 +1,5 @@
-# --- General options --- #
+# Theme #
+remote_theme: daattali/beautiful-jekyll@5.0.0 to your _config.yml
 
 # Name of website
 title: Utopía y contr-utopía en Hispanoamérica colonial
@@ -258,8 +259,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
-theme: jekyll-theme-cayman
