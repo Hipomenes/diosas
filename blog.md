@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Blog 
+use-site-title: true
 ---
-
 
 <div class="posts-list">
   {% for post in paginator.posts %}
