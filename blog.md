@@ -3,6 +3,11 @@ layout: page
 title: Blog 
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  {% include head.html %}
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
