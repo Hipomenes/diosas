@@ -23,7 +23,8 @@ description: El pensamiento utópico en Hispanoamérica colonial
 navbar-links:
   About: "aboutus"
   Course:
-    - Course Dynamics: ""
+    - General Policies: ""
+    - Courses Grading: ""
     - Assignments: ""
   Readings: ""
   Schedule: "calendar"
@@ -63,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: MEMIC Team
+  name: DHC
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,9 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: true
-  email: "Juanxgm@gmail.com"
-  facebook: memic
-  twitter: AndMedieval
+  email: "dhcg@bu.edu"
+#  facebook: memic
+#  twitter: AndMedieval
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -81,17 +82,17 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
+  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: false
+# share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
