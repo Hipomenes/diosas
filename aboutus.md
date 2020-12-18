@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course description
-subtitle: Utopia and Counter-Utopia
+title: Utopía y contra-utopía
+subtitle: Descripción del curso
 bigimg: /img/ideal-city.jpg
 ---
 
